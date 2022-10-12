@@ -20,7 +20,7 @@ Chrome Version in Works!
 <a href="https://www.flaticon.com/free-icons/bee" title="bee icons">Bee icons created by dreamicons - Flaticon</a>
 
 This extension was influenced by portions of this project:
-<a href="https://github.com/panicsteve/cloud-to-butt/tree/master/Source" title="Cloud-To-Butt">Cloud-To-Butt by Steven Frank</a>
+<a href="https://github.com/panicsteve/cloud-to-butt/" title="Cloud-To-Butt">Cloud-To-Butt by Steven Frank</a>
 ***
 
 ### Notice:
