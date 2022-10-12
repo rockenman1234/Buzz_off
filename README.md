@@ -17,6 +17,14 @@ Chrome Version in Works!
 ## Nerd Stuff
 
 This project uses 2 JavaScript Manifests Versions for Chrome and Firefox respectivley. Manifest 3 is used for the Chromium Version, and Manifest 2 is used for the Firefox Version. Both operate in exactly the same way, however Manifest Version 3 is used for Chromium due to <a href="https://www.eff.org/deeplinks/2021/12/googles-manifest-v3-still-hurts-privacy-security-innovation" title="Google-Stuff">Google's insitance on using Manifest v3.</a>
+
+| Keywords | Changes to |
+| ------------- | ------------- |
+| Most spellings of "University of Georgia" to | "Cesspool Of The South","Drinking School With A Football Problem", "Athens-Clarke County Penal Colony", or "Rejects from Tech" |
+| Most spellings of "Georgia Bulldogs" to | "Georgia Mutts", or "Georgia Rednecks" |
+| Most spellings of "UGA" to | "u(sic)Ga" |
+
+__And More to Come!__
 ***
 
 ### Attribution:
