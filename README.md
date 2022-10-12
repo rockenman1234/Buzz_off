@@ -16,7 +16,7 @@ Chrome Version in Works!
 -->
   
 ***
-### Atribution:
+### Attribution:
 <a href="https://www.flaticon.com/free-icons/bee" title="bee icons">Bee icons created by dreamicons - Flaticon</a>
 
 This extension was influenced by portions of this project:
