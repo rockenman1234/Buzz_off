@@ -1,0 +1,22 @@
+{
+	"manifest_version": 3,
+	"name": "Buzz_Off",
+	"version": "1.0",
+	"description": "Replaces any text related to UGA(sic) with various insults.",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	],
+
+	"icons": {
+		"16": "icon16.png",
+		"24": "icon24.png",
+		"128": "icon128.png"
+		}
+}
+
+
