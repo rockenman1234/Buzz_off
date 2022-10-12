@@ -1,4 +1,4 @@
-Buzz_off
+![](https://github.com/rockenman1234/Buzz_off/blob/main/Source(Chrome)/icon128.png?raw=true) Buzz_off 
 ==========
 A simple browser extension that replaces any text related to The university(sic) Of Georgia with various insults.
 ***
