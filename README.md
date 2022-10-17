@@ -6,10 +6,7 @@ A simple browser extension that replaces any text related to The university(sic)
 ## Install Here!
 <p align="center">
 <a href="https://addons.mozilla.org/addon/buzz_off/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get Buzz_Off for Firefox"></a>
-<!---
-Chrome Version in Works!
- <a href="https://chrome.google.com/webstore/detail/ETC"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="Get Buzz_Off for Chromium"></a>
--->
+ <a href="https://chrome.google.com/webstore/detail/buzzoff/njeiabnnggpilaodighggmecepfhmckp"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="Get Buzz_Off for Chromium"></a>
 
 ![](https://github.com/rockenman1234/Buzz_off/blob/main/screenshot.jpeg?raw=true)
 ***
